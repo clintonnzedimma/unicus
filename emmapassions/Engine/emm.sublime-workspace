@@ -1,0 +1,1665 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"use",
+				"userFactory"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"sec",
+				"second_voucher_split"
+			],
+			[
+				"MIN",
+				"minlength\tAttr"
+			],
+			[
+				"vo",
+				"voucher"
+			],
+			[
+				"vou",
+				"voucher_split"
+			],
+			[
+				"exp",
+				"explode"
+			],
+			[
+				"r",
+				"required_fields"
+			],
+			[
+				"succ",
+				"success"
+			],
+			[
+				"end",
+				"endif"
+			],
+			[
+				"er",
+				"ERROR_MESSAGE"
+			],
+			[
+				"em",
+				"empty"
+			],
+			[
+				"ADD",
+				"address"
+			],
+			[
+				"las",
+				"last_name"
+			],
+			[
+				"OT",
+				"other_details"
+			],
+			[
+				"l",
+				"lorem\tLorem ipsum"
+			],
+			[
+				"log",
+				"log-out"
+			],
+			[
+				"php",
+				"php"
+			],
+			[
+				"the",
+				"the_user"
+			],
+			[
+				"sess",
+				"session_destroy"
+			],
+			[
+				"uns",
+				"unset"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"chekc",
+				"check-my-slip"
+			],
+			[
+				"add",
+				"address"
+			],
+			[
+				"post",
+				"postConst"
+			],
+			[
+				"eo",
+				"errors"
+			],
+			[
+				"event",
+				"event_id"
+			],
+			[
+				"N",
+				"name_of_event"
+			],
+			[
+				"t",
+				"today_dt_obj"
+			],
+			[
+				"s",
+				"start_dt_obj"
+			],
+			[
+				"req",
+				"required_fields"
+			],
+			[
+				"loc",
+				"location"
+			],
+			[
+				"STAR",
+				"start_date"
+			],
+			[
+				"DES",
+				"description"
+			],
+			[
+				"nam",
+				"name_of_event"
+			],
+			[
+				"arr",
+				"array"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"fo",
+				"form\tTag"
+			],
+			[
+				"qu",
+				"query"
+			],
+			[
+				"p",
+				"par"
+			],
+			[
+				"sta",
+				"status"
+			],
+			[
+				"sel",
+				"selected"
+			],
+			[
+				"room",
+				"room_id"
+			],
+			[
+				"ar",
+				"array"
+			],
+			[
+				"ro",
+				"room_id"
+			],
+			[
+				"para",
+				"paramDate"
+			],
+			[
+				"roo",
+				"room_id"
+			],
+			[
+				"sub",
+				"submit"
+			],
+			[
+				"deP",
+				"departureDate"
+			],
+			[
+				"dep",
+				"departure"
+			],
+			[
+				"SLIP",
+				"slip_voucher"
+			],
+			[
+				"n",
+				"num_rows"
+			],
+			[
+				"tod",
+				"today_obj"
+			],
+			[
+				"par",
+				"param_departure"
+			],
+			[
+				"pa",
+				"param_arrival"
+			],
+			[
+				"th",
+				"the_user"
+			],
+			[
+				"PA",
+				"param"
+			],
+			[
+				"v",
+				"value"
+			],
+			[
+				"is_a",
+				"is_array"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"f",
+				"fun\tfunction …"
+			],
+			[
+				"num",
+				"numberOfDays"
+			],
+			[
+				"de",
+				"Depature"
+			],
+			[
+				"hid",
+				"hidePhoneAlert"
+			],
+			[
+				"phone",
+				"phoneAlert"
+			],
+			[
+				"full",
+				"full_name"
+			],
+			[
+				"fulll",
+				"fullNameAlert"
+			],
+			[
+				"number",
+				"number_of_persons"
+			],
+			[
+				"fi",
+				"final_voucher"
+			],
+			[
+				"min",
+				"minlength\tAttr"
+			],
+			[
+				"m",
+				"maxlength\tAttr"
+			],
+			[
+				"pi",
+				"pin"
+			],
+			[
+				"MA",
+				"maxlength\tAttr"
+			],
+			[
+				"che",
+				"check-reservation"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"SLI",
+				"slip_pin"
+			],
+			[
+				"param_",
+				"param_voucher"
+			],
+			[
+				"q",
+				"query"
+			],
+			[
+				"slip",
+				"slip_voucher"
+			],
+			[
+				"Dat",
+				"DateTime"
+			],
+			[
+				"to",
+				"today"
+			],
+			[
+				"QU",
+				"query"
+			],
+			[
+				"tr",
+				"true"
+			],
+			[
+				"els",
+				"else"
+			],
+			[
+				"su",
+				"success"
+			],
+			[
+				"Q",
+				"query"
+			],
+			[
+				"nu",
+				"number_of_days"
+			],
+			[
+				"sli",
+				"slip_pin"
+			],
+			[
+				"dat",
+				"date_of_booking"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"re",
+				"ret\treturn"
+			],
+			[
+				"eco",
+				"encrypt_random_number"
+			],
+			[
+				"str",
+				"strrpos"
+			],
+			[
+				"ra",
+				"rand"
+			],
+			[
+				"VA",
+				"var_dump"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"is_in",
+				"is_int"
+			],
+			[
+				"e",
+				"errors"
+			],
+			[
+				"ph",
+				"phone"
+			],
+			[
+				"ex",
+				"extra_details"
+			],
+			[
+				"chck",
+				"check_val"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"text-de",
+				"text-decoration\tproperty"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"d",
+				"div\tTag"
+			],
+			[
+				"mar",
+				"margin-right\tproperty"
+			],
+			[
+				"strt",
+				"strtoupper"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"margiN-",
+				"margin-right\tproperty"
+			],
+			[
+				"MAR",
+				"margin-left\tproperty"
+			],
+			[
+				"pro",
+				"profits"
+			],
+			[
+				"for",
+				"for_profits"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"ch",
+				"chart_context"
+			],
+			[
+				"bas",
+				"base"
+			],
+			[
+				"ha",
+				"half_2"
+			],
+			[
+				"al",
+				"all_year"
+			],
+			[
+				"con",
+				"context_confine"
+			],
+			[
+				"half",
+				"half_1"
+			],
+			[
+				"char",
+				"chart_context"
+			],
+			[
+				"CHAR",
+				"chart_type"
+			],
+			[
+				"ba",
+				"base"
+			],
+			[
+				"aaly",
+				"Analytics"
+			],
+			[
+				"time",
+				"time_object"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/xampp/htdocs/emmapassions/index.php",
+			"settings":
+			{
+				"buffer_size": 27349,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "<?php include 'includes/partials.php'; ?>\n<body id=\"page-top\" data-spy=\"scroll\" data-target=\".navbar-custom\">\n<?php include 'includes/header.php'; ?>\n <div id=\"wrapper\">\n\n    <nav class=\"navbar navbar-custom navbar-fixed-top\" role=\"navigation\">\n       <div class=\"top-area\" style=\"\n    background: #040404e6;\n\">\n        <div class=\"container\">\n          <div class=\"row\">\n            <div class=\"col-sm-6 col-md-6\">\n              <p class=\"bold text-left\">Monday - Saturday, 8am to 6pm  </p>\n            </div>\n            <div class=\"col-sm-6 col-md-6\">\n              <p class=\"bold text-right\">Call us now +234 803 222 3196   |  +234 809 561 9605</p>\n            </div>\n          </div>\n        </div>\n      </div>\n      <div class=\"container navigation\">\n\n        <div class=\"navbar-header page-scroll\">\n          <button type=\"button\" class=\"navbar-toggle\" data-toggle=\"collapse\" data-target=\".navbar-main-collapse\">\n                    <i class=\"fa fa-bars\"></i>\n                </button>\n          <a class=\"navbar-brand\" href=\"index.html\">\n                     <img src=\"img/emma.png\" alt=\"\" width=\"\" height=\"\" style=\" max-height: 3.5em;\n    float:  left;\" />\n                </a>\n        </div>\n\n        <!-- Collect the nav links, forms, and other content for toggling -->\n        <div class=\"collapse navbar-collapse navbar-right navbar-main-collapse\">\n          <ul class=\"nav navbar-nav\">\n            <li class=\"active\"><a href=\"index.html#intro\">Home</a></li>\n            <li><a href=\"index.html#service\">About</a></li>\n            <li><a href=\"#doctor\">Gallery</a></li>\n            <li><a href=\"#facilities\">Events</a></li>\n             <li><a href=\"index-form.html\">Contact us </a></li>\n           <!--  <li><a href=\"#pricing\">Pricing</a></li> -->\n           <!--  <li class=\"dropdown\">\n              <a href=\"#\" class=\"dropdown-toggle\" data-toggle=\"dropdown\"><span class=\"badge custom-badge red pull-right\">Extra</span>More <b class=\"caret\"></b></a>\n              <ul class=\"dropdown-menu\">\n                <li><a href=\"index.html\">Home</a></li>\n                 <li><a href=\"index-form.html\">Contact us </a></li>\n                <li><a href=\"index-form.html\">Register now</a></li> -->\n               <!--  <li><a href=\"index-video.html\">Home video</a></li> -->\n              </ul>\n            </li>\n          </ul>\n        </div>\n        <!-- /.navbar-collapse -->\n      </div>\n      <!-- /.container -->\n    </nav>\n\n\n\n <!-- Section: intro -->\n    <section id=\"intro\" class=\"intro\">\n      <div class=\"intro-content\">\n        <div class=\"container\">\n          <div class=\"row\">\n            <div class=\"col-lg-6\" style=\"width: 80%;\" >\n              <div class=\"wow fadeInDown\" data-wow-offset=\"0\" data-wow-delay=\"0.1s\">\n                <h2 class=\"h-ultra\"  style=\"\n    color: #f90909;\n    text-transform:  uppercase;\n\">Emmapassions fitness</h2>\n              </div>\n              <div class=\"wow fadeInUp\" data-wow-offset=\"0\" data-wow-delay=\"0.1s\">\n                <h4 class=\"h-light\" style=\"\n                color:#ffffff; \">Fitness for total wellness</h4>\n              </div>\n\n\n       \n              <div class=\"container this-form\">\n<div class=\"row\" >\n                    <div class=\"heading-section col-md-12 text-center\" style=\"\n                        margin-bottom: 30px;\n                    \">\n\n\n\n\n         <div class=\"container\">\n                <div class=\"row\" style=\"\n    padding: 15px;\n\">\n            \n                <div class=\"\">\n\n                        <center class=\"contact-form\">\n                            <form method=\"post\" name=\"contactform\" id=\"contactform\" style=\"\n    max-width: 30em;\n    text-align: center;\n\">\n\n\n             <label class=\"col-md-3\" for=\"arrival\" style=\"\n    padding: 0;\n    padding-right: 15px;\n    width: 48%;\n    display: inline-block;\n    float: left;\n    text-align: left;\n\"> Voucher\n<input name=\"voucher-1\" type=\"voucher\" value=\"\" id=\"voucher-1\" placeholder=\"\" maxlength=\"4\" onkeyup=\"taye()\"  style=\"\n    height: 3em;\n    width: 98px;\n    min-width:  100%;\n    display: block;\n\"></label>\n<label class=\"col-md-3\" for=\"arrival\" style=\"\n    padding: 0;\n    width: 48%;\n    display: inline-block;\n    float: right;\n    text-align: left;\n    margin-top: 23px;\n\"><input name=\"voucher-2\" type=\"voucher\" value=\"\" id=\"voucher-2\" placeholder=\"\" maxlength=\"4\"  onkeyup=\"sam()\" style=\"\n    height: 3em;\n    width: 98px;\n    min-width:  100%;\n    display: block;\n\"></label>\n\n\n     \n                                <input type=\"submit\" class=\"mainBtn\" id=\"submit\" value=\"check \" name=\"check\" style=\"\n    float: right;\n     background-color:  #e00203;\n     border-color: #e00203;\n     display: block;\n     font-weight: 700;\n     text-transform: uppercase;\n     font-size: 14px;\n     margin-top: 24px;\n     color: white;\n     padding: 8px;\n     margin: 12px;\n     border-radius: 8px;\n\">\n</div>\n\n\n                            </form>\n                        </center> <!-- /.contact-form -->\n                    </div> <!-- /.col-md-5 -->\n        </div> <!-- /.site-main -->\n</div>\n\n\n\n\n\n           <!--  <center>\n               <div class=\"voucher-check-main-container check-container\" style=\"\">\n                <form>\n                  <table>\n                    <tr>\n                      <td><input type=\"text\" name=\"voucher1\" placeholder=\"voucher1\" style=\"text-align: center; font-size: 16pt\"></td>\n                      <td><input type=\"text\" name=\"voucher2\" placeholder=\"voucher2\" style=\"text-align: left; font-size: 16pt\"></td>\n                    </tr>\n\n                    <tr>\n                      <td colspan=\"2\" width=\"40%\" style=\"text-align: center;\"><input type=\"button\" name=\"check\" value=\"check\" size=\"70%\" style=\"margin-bottom: 20px;\"></td>\n                    </tr>\n\n                    \n                  </table>\n                </form>\n\n               </div>\n             </center>                \n -->\n\n            \n            </div>\n          </div>\n        </div>\n      </div>\n    </section>\n\n         <!--    footer -->\n\n    \n\n</body>\n</html>\n",
+			"settings":
+			{
+				"buffer_size": 6022,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/emmapassions/css/style.css",
+			"settings":
+			{
+				"buffer_size": 56654,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/emmapassions/details.php",
+			"settings":
+			{
+				"buffer_size": 5189,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/emmapassions/check.php",
+			"settings":
+			{
+				"buffer_size": 4042,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/emmapassions/includes/header.php",
+			"settings":
+			{
+				"buffer_size": 2273,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/emmapassions/includes/footer.php",
+			"settings":
+			{
+				"buffer_size": 4733,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/emmapassions/add-event.php",
+			"settings":
+			{
+				"buffer_size": 1233,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Controllers/check.php",
+			"settings":
+			{
+				"buffer_size": 1102,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Controllers/details.php",
+			"settings":
+			{
+				"buffer_size": 245,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/emmapassions/tracking.html",
+			"settings":
+			{
+				"buffer_size": 13179,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "<?php \ninclude $_SERVER['DOCUMENT_ROOT'].'/emmapassions/engine/env/ftf.php';\n$user =  new User();\nif($user->IsLoggedIn()) :\n\t$the_user = new User_Singleton($_SESSION['voucher']);\n?>\n\n\n<div align=\"left\">\t\n\t<h3>Event Details</h3>\n\t<p>\n\t\t<b>Name</b> : <span><?php echo $the_user->event->get('name_of_event') ?></span>\n\t\t<br>\n\t\t<b>Description</b> : <span> <?php echo $the_user->event->get('description') ?></span>\n\t\t<br>\n\t\t<b>Location</b> : <span><?php echo $the_user->event->get('location') ?></span>\n\t\t<br>\n\t\t<b>Happening On</b> : <span> <?php echo $the_user->event->get('start_date') ?></span>\n\t</p>\n\n\t<h3>User Details</h3>\n\t<p>\n\t\t<b>Full Name</b> : <span><?php echo $the_user->get('full_name') ?></span>\n\t\t<br>\n\t\t<b>Phone</b> : <span> <?php echo $the_user->get('phone') ?></span>\n\t\t<br>\n\t\t<b>Email</b> : <span> <?php echo $the_user->get('email') ?> </span>\n\t\t<br>\n\t\t<b>Registered On</b> : <span> <?php echo $the_user->get('date_reg') ?></span>\n\t</p>\t\n</div>\n\n<form method=\"post\">\n\t<?php\n\t\tif (submit_btn_clicked('log-out')) {\n\t\t\t$user->logOutVoucher();\n\t\t\theader(\"Location:inquire.php\");\n\t\t\texit();\t\t\t\n\t\t}\n\n\t?>\n\t<input type=\"submit\" name=\"log-out\" value=\"log out\">\t\n</form>\n<?php endif ?>\n\n\n<?php if (!$user->IsLoggedIn()): \n\t\t\theader(\"Location:inquire.php\");\n\t\t\texit();\t\n?>\n\tYou need to be logged in\n<?php endif ?>",
+			"file": "/C/xampp/htdocs/emmapassions/check-event-details.php",
+			"file_size": 1366,
+			"file_write_time": 131819170638702767,
+			"settings":
+			{
+				"buffer_size": 1315,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Controllers/book-event.php",
+			"settings":
+			{
+				"buffer_size": 1501,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Class/user_singleton.php",
+			"settings":
+			{
+				"buffer_size": 747,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Class/user.php",
+			"settings":
+			{
+				"buffer_size": 2076,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Class/event_singleton.php",
+			"settings":
+			{
+				"buffer_size": 788,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Class/admin.php",
+			"settings":
+			{
+				"buffer_size": 669,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Env/db.php",
+			"settings":
+			{
+				"buffer_size": 223,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Env/ftf.php",
+			"settings":
+			{
+				"buffer_size": 719,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Procedures/init.php",
+			"settings":
+			{
+				"buffer_size": 6779,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 58.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: Enumeration"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 154.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/emmapassions",
+		"/C/xampp/htdocs/emmapassions/Engine",
+		"/C/xampp/htdocs/emmapassions/Engine/Async",
+		"/C/xampp/htdocs/emmapassions/Engine/Controllers",
+		"/C/xampp/htdocs/emmapassions/Engine/Env",
+		"/C/xampp/htdocs/emmapassions/Engine/Procedures"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/emmapassions/Engine/rc/check-event-details.php",
+		"/C/xampp/htdocs/emmapassions/index-form.php",
+		"/C/xampp/htdocs/emmapassions/Engine/Procedures/errors.php",
+		"/C/xampp/htdocs/emmapassions/Engine/Controllers/book-event.php",
+		"/C/xampp/htdocs/emmapassions/check-event-details.php",
+		"/C/xampp/htdocs/emmapassions/js/custom.js",
+		"/C/xampp/htdocs/emmapassions/inquire.php",
+		"/C/xampp/htdocs/emmapassions/includes/partials.php",
+		"/C/xampp/htdocs/emmapassions/check.php",
+		"/C/xampp/htdocs/emmapassions/tracking.php",
+		"/C/xampp/htdocs/emmapassions/index-form.html",
+		"/C/xampp/htdocs/emmapassions/index-form.php.html",
+		"/F/Emma Passions/Medicio/index.html",
+		"/F/Emma Passions/Medicio/check.html",
+		"/F/Emma Passions/Medicio/tracking.html",
+		"/F/Emma Passions/Medicio/css/style.css",
+		"/C/xampp/htdocs/CBT/timer.js",
+		"/C/xampp/htdocs/hotelr/engine/tesseract/class/room.php",
+		"/C/xampp/htdocs/hotelr/engine/procedures/init.php",
+		"/C/Users/clinton/Desktop/TEST_ENVIRONMENT/phpdesktop-chrome-47.5-rc-php-5.4.33/resource/about.php",
+		"/C/Users/clinton/Desktop/TEST_ENVIRONMENT/phpdesktop-chrome-47.5-rc-php-5.4.33/resource/js/custom/live-data.1.0.0.js",
+		"/C/Users/clinton/Desktop/TEST_ENVIRONMENT/phpdesktop-chrome-47.5-rc-php-5.4.33/resource/engine/functions/core/class.room.php",
+		"/C/Users/clinton/Desktop/TEST_ENVIRONMENT/phpdesktop-chrome-47.5-rc-php-5.4.33/resource/general-management.php",
+		"/C/Users/clinton/Desktop/TEST_ENVIRONMENT/phpdesktop-chrome-47.5-rc-php-5.4.33/resource/engine/functions/core/class.chart.php",
+		"/C/Users/clinton/Desktop/TEST_ENVIRONMENT/phpdesktop-chrome-47.5-rc-php-5.4.33/resource/includes/modal/manage-guest.php",
+		"/C/Users/clinton/Desktop/TEST_ENVIRONMENT/phpdesktop-chrome-47.5-rc-php-5.4.33/resource/engine/functions/core/class.time_object.php",
+		"/C/Users/clinton/Desktop/TEST_ENVIRONMENT/phpdesktop-chrome-47.5-rc-php-5.4.33/resource/search.php",
+		"/C/Users/clinton/Desktop/TEST_ENVIRONMENT/phpdesktop-chrome-47.5-rc-php-5.4.33/resource/includes/specifics/settings_globals.php",
+		"/C/Users/clinton/Desktop/TEST_ENVIRONMENT/phpdesktop-chrome-47.5-rc-php-5.4.33/resource/includes/specifics/settings_security.php",
+		"/C/Users/clinton/Documents/PYTHON Codes/hello.py",
+		"/C/xampp/htdocs/Africa/wp-config.php",
+		"/C/Users/clinton/Desktop/TEST_ENVIRONMENT/phpdesktop-chrome-47.5-rc-php-5.4.33/resource/includes/meta-main.php",
+		"/C/Users/clinton/Desktop/TEST_ENVIRONMENT/phpdesktop-chrome-47.5-rc-php-5.4.33/resource/css/main.css",
+		"/C/Users/clinton/Desktop/TEST_ENVIRONMENT/phpdesktop-chrome-47.5-rc-php-5.4.33/resource/css/widgets.css",
+		"/C/Users/clinton/Desktop/TEST_ENVIRONMENT/phpdesktop-chrome-47.5-rc-php-5.4.33/resource/engine/functions/core/class.config.php",
+		"/C/Users/clinton/Desktop/TEST_ENVIRONMENT/phpdesktop-chrome-47.5-rc-php-5.4.33/resource/css/tesseract-data.css",
+		"/C/Users/clinton/Desktop/TEST_ENVIRONMENT/phpdesktop-chrome-47.5-rc-php-5.4.33/resource/guest-registeration.php",
+		"/C/Users/clinton/Desktop/TEST_ENVIRONMENT/phpdesktop-chrome-47.5-rc-php-5.4.33/resource/includes/settings-topbar.php",
+		"/C/Users/clinton/Desktop/TEST_ENVIRONMENT/phpdesktop-chrome-47.5-rc-php-5.4.33/resource/includes/topbar.php",
+		"/C/Users/clinton/Desktop/TEST_ENVIRONMENT/phpdesktop-chrome-47.5-rc-php-5.4.33/resource/dashboard.php",
+		"/C/Users/clinton/Desktop/TEST_ENVIRONMENT/phpdesktop-chrome-47.5-rc-php-5.4.33/resource/includes/sidebar.php",
+		"/C/Users/clinton/Desktop/TEST_ENVIRONMENT/phpdesktop-chrome-47.5-rc-php-5.4.33/resource/engine/functions/core/class.abstract.pagination.php",
+		"/C/Users/clinton/Desktop/TEST_ENVIRONMENT/phpdesktop-chrome-47.5-rc-php-5.4.33/resource/engine/functions/core/class.guest.php",
+		"/C/Users/clinton/Desktop/TEST_ENVIRONMENT/phpdesktop-chrome-47.5-rc-php-5.4.33/resource/engine/functions/core/init.php",
+		"/C/Users/clinton/Desktop/TEST_ENVIRONMENT/phpdesktop-chrome-47.5-rc-php-5.4.33/resource/engine/functions/core/class.admin.php",
+		"/C/Users/clinton/Desktop/TEST_ENVIRONMENT/phpdesktop-chrome-47.5-rc-php-5.4.33/resource/js/custom/main-lib.1.0.0.js",
+		"/C/Users/clinton/AppData/Roaming/Sublime Text 3/Packages/User/cpp_build.sublime-build",
+		"/C/Users/clinton/Documents/My C++ codes/Exam Practice/adding array using function.cpp",
+		"/C/Users/clinton/Desktop/macro.sublime-macro",
+		"/C/Users/clinton/Desktop/TEST_ENVIRONMENT/phpdesktop-chrome-47.5-rc-php-5.4.33/resource/includes/specifics/create-reservation-form.php",
+		"/C/Users/clinton/Desktop/TEST_ENVIRONMENT/phpdesktop-chrome-47.5-rc-php-5.4.33/resource/includes/specifics/guest_registeration_form.php",
+		"/C/Users/clinton/Desktop/TEST_ENVIRONMENT/phpdesktop-chrome-47.5-rc-php-5.4.33/resource/index.php",
+		"/C/Users/clinton/Desktop/TEST_ENVIRONMENT/phpdesktop-chrome-47.5-rc-php-5.4.33/resource/create-reservation.php",
+		"/C/Users/clinton/Desktop/TEST_ENVIRONMENT/phpdesktop-chrome-47.5-rc-php-5.4.33/resource/engine/functions/core/class.stats.php",
+		"/C/Users/clinton/Desktop/TEST_ENVIRONMENT/phpdesktop-chrome-47.5-rc-php-5.4.33/resource/includes/modal/manage-rooms.php",
+		"/C/Users/clinton/Desktop/TEST_ENVIRONMENT/phpdesktop-chrome-47.5-rc-php-5.4.33/resource/engine/functions/database/class.sqlite_DB.php",
+		"/C/Users/clinton/Desktop/TEST_ENVIRONMENT/phpdesktop-chrome-47.5-rc-php-5.4.33/resource/includes/specifics/search_NOT-FOUND.php",
+		"/C/Users/clinton/Desktop/TEST_ENVIRONMENT/phpdesktop-chrome-47.5-rc-php-5.4.33/resource/widgets/live.data.php",
+		"/C/Users/clinton/Desktop/TEST_ENVIRONMENT/phpdesktop-chrome-47.5-rc-php-5.4.33/resource/includes/specifics/create-reservation-success.php",
+		"/C/Users/clinton/Desktop/TEST_ENVIRONMENT/phpdesktop-chrome-47.5-rc-php-5.4.33/resource/includes/specifics/guest_registeration_success.php",
+		"/C/Users/clinton/Desktop/TEST_ENVIRONMENT/phpdesktop-chrome-47.5-rc-php-5.4.33/resource/includes/modal/modal-includes/specifics/create-reservation-form.php",
+		"/C/Users/clinton/Desktop/TEST_ENVIRONMENT/phpdesktop-chrome-47.5-rc-php-5.4.33/resource/engine/functions/core/class.guest_singleton.php",
+		"/C/Users/clinton/Desktop/TEST_ENVIRONMENT/phpdesktop-chrome-47.5-rc-php-5.4.33/resource/includes/modal/create-reservation.php",
+		"/C/Users/clinton/Desktop/TEST_ENVIRONMENT/phpdesktop-chrome-47.5-rc-php-5.4.33/php/php_sqlite3.dll"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"index.html",
+			"<form",
+			"hotelr",
+			"`",
+			"engine",
+			"//p"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"index.php",
+			"emmapassions",
+			"'",
+			"engine/tesseract",
+			"p"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/xampp/htdocs/emmapassions/index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 27349,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								27349
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6022,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								6022
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 219.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/xampp/htdocs/emmapassions/css/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 56654,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								55848,
+								55848
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 34715.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/xampp/htdocs/emmapassions/details.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5189,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4420,
+								4420
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 68.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/xampp/htdocs/emmapassions/check.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4042,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3706,
+								3667
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1993.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/C/xampp/htdocs/emmapassions/includes/header.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2273,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2273,
+								2273
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 433.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/C/xampp/htdocs/emmapassions/includes/footer.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4733,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4732,
+								4203
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1591.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 17,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/C/xampp/htdocs/emmapassions/add-event.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1233,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								343,
+								343
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 32.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 18,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 11,
+					"file": "Controllers/check.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1102,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1086,
+								1042
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 8549.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "Controllers/details.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 245,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								239,
+								200
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "/C/xampp/htdocs/emmapassions/tracking.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13179,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3466,
+								8078
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 5408.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "/C/xampp/htdocs/emmapassions/check-event-details.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1315,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 373.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "Controllers/book-event.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1501,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								217,
+								124
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 264.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "Class/user_singleton.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 747,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5,
+								5
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"file": "Class/user.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2076,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1952,
+								1915
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 995.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 18,
+					"file": "Class/event_singleton.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 788,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								56,
+								42
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 16,
+					"type": "text"
+				},
+				{
+					"buffer": 19,
+					"file": "Class/admin.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 669,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								624,
+								624
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 20,
+					"type": "text"
+				},
+				{
+					"buffer": 20,
+					"file": "Env/db.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 223,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								214,
+								214
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 21,
+					"type": "text"
+				},
+				{
+					"buffer": 21,
+					"file": "Env/ftf.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 719,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								166,
+								166
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 22,
+					"type": "text"
+				},
+				{
+					"buffer": 22,
+					"file": "Procedures/init.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6779,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								701,
+								701
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 3545.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 19,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.963396778917,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 114.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/C++/C++ Single File.sublime-build",
+	"project": "/C/xampp/htdocs/hotelr/engine/recozee.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 282.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

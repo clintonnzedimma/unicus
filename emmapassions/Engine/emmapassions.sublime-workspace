@@ -1,0 +1,542 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"h",
+				"height\tAttr"
+			],
+			[
+				"b",
+				"border-collapse\tproperty"
+			],
+			[
+				"t",
+				"top\tproperty"
+			],
+			[
+				"p",
+				"position\tproperty"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"m",
+				"margin\tproperty"
+			],
+			[
+				"i",
+				"id\tAttr"
+			],
+			[
+				"mar",
+				"margin-right\tproperty"
+			],
+			[
+				"in",
+				"inline-block\tdisplay"
+			],
+			[
+				"bl",
+				"black"
+			],
+			[
+				"se",
+				"size\tAttr"
+			],
+			[
+				"ba",
+				"background-size\tproperty"
+			],
+			[
+				"bac",
+				"background-repeat\tproperty"
+			],
+			[
+				"u",
+				"url()\tbackground"
+			],
+			[
+				"f",
+				"font-size\tproperty"
+			],
+			[
+				"s",
+				"size\tAttr"
+			],
+			[
+				"border-r",
+				"border-radius\tproperty"
+			],
+			[
+				"A",
+				"Appointment"
+			],
+			[
+				"he",
+				"header"
+			],
+			[
+				"margi",
+				"margin-top\tproperty"
+			],
+			[
+				"a",
+				"auto\tmargin"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"marg",
+				"margin-right\tproperty"
+			],
+			[
+				"l",
+				"list-style\tproperty"
+			],
+			[
+				"arr",
+				"arrayName"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"E",
+				"echo"
+			],
+			[
+				"FONT",
+				"font-size\tproperty"
+			],
+			[
+				"bor",
+				"border-collapse\tproperty"
+			],
+			[
+				"st",
+				"style\tAttr"
+			],
+			[
+				"g",
+				"getData"
+			],
+			[
+				"y",
+				"you"
+			],
+			[
+				"d",
+				"document"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"tt",
+				"text-align\tproperty"
+			],
+			[
+				"te",
+				"text-align\tproperty"
+			],
+			[
+				"align",
+				"text-align\tproperty"
+			],
+			[
+				"fon",
+				"font-family\tproperty"
+			],
+			[
+				"li",
+				"list-style-type\tproperty"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"o",
+				"onclick\tAttr"
+			],
+			[
+				"r",
+				"rows\tAttr"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"v",
+				"value"
+			],
+			[
+				"tim",
+				"times"
+			],
+			[
+				"pa",
+				"padding\tproperty"
+			],
+			[
+				"bo",
+				"border\tproperty"
+			],
+			[
+				"e",
+				"equals"
+			],
+			[
+				"M",
+				"margin-left\tproperty"
+			],
+			[
+				"T",
+				"text-align\tproperty"
+			],
+			[
+				"padding-",
+				"padding-right\tproperty"
+			],
+			[
+				"border",
+				"border-bottom-style\tproperty"
+			],
+			[
+				"ma",
+				"margin\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"co",
+				"color\tproperty"
+			],
+			[
+				"cl",
+				"clear\tproperty"
+			],
+			[
+				"O",
+				"overflow\tproperty"
+			],
+			[
+				"Sty",
+				"style"
+			],
+			[
+				"w",
+				"white"
+			],
+			[
+				"padding",
+				"padding-right\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"background-",
+				"background-size\tproperty"
+			],
+			[
+				"back",
+				"background-position\tproperty"
+			],
+			[
+				"am",
+				"animation-delay\tproperty"
+			],
+			[
+				"fa",
+				"font-family\tproperty"
+			],
+			[
+				"text",
+				"text-decoration\tproperty"
+			],
+			[
+				"padd",
+				"padding-bottom\tproperty"
+			],
+			[
+				"fl",
+				"float\tproperty"
+			],
+			[
+				"BOR",
+				"border-radius\tproperty"
+			],
+			[
+				"H",
+				"height\tproperty"
+			],
+			[
+				"go",
+				"google"
+			],
+			[
+				"lo",
+				"logo"
+			],
+			[
+				"F",
+				"float\tproperty"
+			],
+			[
+				"background-c",
+				"background-color\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"pass",
+				"Password"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"box-s",
+				"box-shadow\tproperty"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Env/ftf.php",
+			"settings":
+			{
+				"buffer_size": 917,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/F/medical project/css/font-awesome.css",
+		"/C/Users/Muhammad Madugu/Desktop/PTI/File.html",
+		"/C/Users/Muhammad Madugu/Desktop/Slider/Ade.html",
+		"/C/Users/Muhammad Madugu/Desktop/PTI/home.html",
+		"/C/Users/Muhammad Madugu/Desktop/QUIZ/ptiLogin.html",
+		"/C/Users/Muhammad Madugu/Desktop/QUIZ/merc.html",
+		"/C/Users/Muhammad Madugu/Desktop/QUIZ/amscal.html",
+		"/C/Users/Muhammad Madugu/Desktop/QUIZ/Index.html",
+		"/C/Users/Muhammad Madugu/Desktop/QUIZ/pti.html",
+		"/C/Users/Muhammad Madugu/Desktop/PTI/Style.css",
+		"/C/Users/Muhammad Madugu/Desktop/QUIZ/log.html",
+		"/C/Users/Muhammad Madugu/Desktop/QUIZ/ptiLg.html",
+		"/C/Users/Muhammad Madugu/Desktop/Slider/Slide1.html"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Env/ftf.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 917,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								130,
+								130
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\Muhammad Madugu\\Desktop\\PTI\\Style.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
